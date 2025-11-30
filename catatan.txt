@@ -1,0 +1,40 @@
+aritmatika
+ + - * / % (modulus = hitung sisa berapa)
+
+Pengulangan
+- for
+- while
+- do.. while
+- foreach
+
+Pengkondisian 
+- if.. else
+- if.. else if.. else
+- ternary
+- switch
+
+endfor;
+endif;
+
+Function 
+- Built-in Function
+http://php.net/manual/en/funcref.php
+    - Date
+        - time()
+        - date()
+        - mktime()
+        - strtotime()
+        - etc
+    - String
+        - strlen()
+        - strcmp()
+        - explode()
+        - htmlspecialchars()
+    - Utility
+        - var_dump()
+        - isset()
+        - empty()
+        - die()
+        - sleep()
+- User-Defined Function
+
